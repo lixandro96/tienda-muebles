@@ -133,6 +133,7 @@ p{
 }
 .navegacion-principal a{
   padding: 1.6rem;
+  position:relative;
 }
 .navegacion-principal a::after{
   content: "";
